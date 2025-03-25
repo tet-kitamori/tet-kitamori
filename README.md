@@ -2,6 +2,7 @@
 
 - 🔭 I worked in the development of optial disk devices for a decade.
 - 🌱 And then, I developed power conversion systems for thirty years.
-- 👯 I am retired and making software as a hobby.
+- 👯 I retired and become a freelancer.
+- 👯 My hobby is electric work and making software. 
 - 🤔 My speciality is control engineering.
 - 😄 I will upload the useful source code.
