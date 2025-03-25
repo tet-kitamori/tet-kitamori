@@ -1,4 +1,4 @@
-## Hi !  I am Tet Kitamori.  👋
+## Hi !   I am Tet Kitamori.  👋
 
 - 🔭 I worked in the development of optial disk devices for a decade.
 - 🌱 And then, I developed power conversion systems for thirty years.
